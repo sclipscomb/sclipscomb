@@ -1,7 +1,7 @@
 Hello. My name is Samuel Lipscomb.
 
 This is my private account, so if you wish to view any of my repositories,
-send an email to samuel.c.lipscomb@gmail.com.
+please shoot an email to samuel.c.lipscomb@gmail.com.
 
 Thank you. Have a wonderful day.
 
